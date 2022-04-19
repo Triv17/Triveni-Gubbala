@@ -119,14 +119,16 @@ nav .fa{
 
      }
 }
-
-/*-------- About Me page --------------*/
-
-.sub-header{
-    height: 50;
+.header-2{
+  height: 50vh;  
+  width: 100%;
+  text-align: center;
+  
 }
 
-
+.header-2 h1{
+   margin-top: 100px; 
+}
 
 
 
